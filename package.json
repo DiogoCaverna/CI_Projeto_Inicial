@@ -1,0 +1,17 @@
+{
+  "name": "3983-integracao-continua-projeto_inicial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "@cypress/code-coverage": "^3.13.10",
+    "cypress": "^14.0.0"
+  }
+}

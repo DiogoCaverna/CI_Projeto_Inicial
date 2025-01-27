@@ -7,4 +7,7 @@ test:
 start:
 	docker compose up -d
 
-ci: start lint test
+teste:
+	npx cypress run
+
+ci: start lint teste test
